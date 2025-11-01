@@ -15,4 +15,4 @@ Graphical view
 
 Implemented for the coursework of the module: Reasoning About Programs (6SENG005C) in 2025, at Informatics Institute of Technology (IIT), Sri Lanka, in collaboration with the University of Westminster.
 
-Author: Dimuthu Jayathunga ([github.com/dimuthuJayathunga](https://github.com/dimuthuJayathunga))
+Author: [Dimuthu Jayathunga](https://github.com/dimuthu-jay)
